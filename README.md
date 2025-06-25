@@ -17,6 +17,7 @@
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/08bf387b-2154-4228-bc6b-0f8eb90b061c)
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/13ac6d8e-7961-485e-9d1c-05e06e49366e" />
 
 ## 🛠️ Technologies Used
 
