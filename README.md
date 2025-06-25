@@ -1,8 +1,6 @@
 # DiceRoll-iOS
 🎲 DiceRoll iOS is a simple and interactive iOS app built with Swift that simulates rolling dice. Each tap generates a random roll with smooth UI updates — perfect for games, fun, or learning Swift basics.
 
-**DiceRoll iOS** is a simple and interactive iOS application built using Swift and Xcode. It simulates rolling two dice, making it a fun and educational app for beginners learning iOS development.
-
 ---
 
 ## ✨ Features
